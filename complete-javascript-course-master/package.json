@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "core-js": "^3.27.1",
+    "leaflet": "^1.9.2"
+  },
+  "name": "forkify",
+  "description": "This branch of the repo contains starter files and final code for all sections and projects of the course, **exactly as shown in the videos**.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}

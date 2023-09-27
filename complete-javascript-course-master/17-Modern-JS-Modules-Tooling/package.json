@@ -1,0 +1,21 @@
+{
+  "name": "17-modern-js-modules-tooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "leaflet": "^1.9.3",
+    "lodash": "^4.17.21",
+    "lodash-es": "^4.17.21",
+    "regenerator": "^0.14.10",
+    "runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
